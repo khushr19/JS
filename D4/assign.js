@@ -1,22 +1,21 @@
-// 
-//for
+
 // for(var i=1;i<=50;i++){
 //     if(i%2==0){
 //         console.log(i);
 //     }
 // }
-// 
+
 // var i=10;
 // while(i>=1){
 //     console.log(i);
 //     i--;
 // }
-// 
+
 // let i=1;
 // for(i;i<=10;i++){
 //     console.log("7*",i,"=",7*i)
 // }
-// 
+
 // for(i=1;i<=100;i++){
 //     if(i%2==1){
 //         console.log(i);
@@ -36,7 +35,7 @@
 //     fact*=i;
 // }
 // console.log(fact);
-// 
+
 // let i=1;
 // count=1;
 // for(var n=1;n<=100;n++){
@@ -61,9 +60,9 @@
 // for(var i=1;i<=50;i++){
 //     console.log(i);
 // }
-for(var a=1;a<=10;a++){
-    a=a*a;
-}
+// for(var a=1;a<=10;a++){
+//     a=a*a;
+// }
 // console.log(a);
 // if(a<20){
 //     console.log("small");
